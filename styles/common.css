@@ -1,0 +1,11 @@
+body {
+    margin: 0px;
+    font-family: 'Lato', 'Lucida Grande', 'Lucida Sans Unicode', Tahoma, 'Sans Serif';
+    background-color: rgb(30,31,38);
+    background-image: linear-gradient(
+        to bottom right,
+        rgb(30,31,38),rgb(10,10,12)
+    );
+    box-sizing: border-box;
+}
+
